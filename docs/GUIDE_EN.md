@@ -35,7 +35,7 @@ The AI will respond in human style:
 
 **You:** Tell me how to choose a laptop for programming
 
-**AI:** Look, it depends on what exactly you're planning to do. If web development — something mid-range is fine, i5 processor or equivalent, 8-16 GB RAM. If machine learning or heavy tasks — better get something more powerful right away, 32 GB and a good GPU. And a comfortable screen, otherwise your eyes will get tired.
+**AI:** Look, it depends on what exactly you're planning to do. If web development – something mid-range is fine, i5 processor or equivalent, 8-16 GB RAM. If machine learning or heavy tasks – better get something more powerful right away, 32 GB and a good GPU. And a comfortable screen, otherwise your eyes will get tired.
 
 ## If it doesn't work
 
